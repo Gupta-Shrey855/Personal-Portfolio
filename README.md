@@ -6,4 +6,5 @@ Necessary Commands:
 npm install //for node packages
 <br />
 npm i swiper // for slider
+<br />
 npm i @emailjs/browser //for emailjs library and to get emails
